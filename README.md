@@ -1,4 +1,4 @@
-Example of Javascript Keyboard with eventlistener edited
-Includes .html and .css and .wav sounds for project
+Examples of Javascript Projects with code edited by user
+Includes .html and .css and necessary accompanying files for project
 
-credit to wesbos js30in30days for tutorial
+Credit due to wesbos Js30in30days for tutorials and guidance
